@@ -52,6 +52,12 @@
     <Compile Include="Bookroom.Designer.cs">
       <DependentUpon>Bookroom.cs</DependentUpon>
     </Compile>
+    <Compile Include="check-in.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="check-in.Designer.cs">
+      <DependentUpon>check-in.cs</DependentUpon>
+    </Compile>
     <Compile Include="ConectDB.cs" />
     <Compile Include="Home.cs">
       <SubType>Form</SubType>
