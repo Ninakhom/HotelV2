@@ -34,7 +34,6 @@ namespace Hotel_02
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.textBox7 = new System.Windows.Forms.TextBox();
             this.label13 = new System.Windows.Forms.Label();
-            this.textBox6 = new System.Windows.Forms.TextBox();
             this.label12 = new System.Windows.Forms.Label();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
@@ -87,7 +86,6 @@ namespace Hotel_02
             // 
             this.groupBox4.Controls.Add(this.textBox7);
             this.groupBox4.Controls.Add(this.label13);
-            this.groupBox4.Controls.Add(this.textBox6);
             this.groupBox4.Controls.Add(this.label12);
             this.groupBox4.Controls.Add(this.textBox5);
             this.groupBox4.Controls.Add(this.dateTimePicker2);
@@ -123,14 +121,6 @@ namespace Hotel_02
             this.label13.Size = new System.Drawing.Size(63, 19);
             this.label13.TabIndex = 52;
             this.label13.Text = "Address:";
-            // 
-            // textBox6
-            // 
-            this.textBox6.Location = new System.Drawing.Point(25, 398);
-            this.textBox6.Multiline = true;
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(221, 27);
-            this.textBox6.TabIndex = 51;
             // 
             // label12
             // 
@@ -470,7 +460,6 @@ namespace Hotel_02
         private System.Windows.Forms.GroupBox groupBox4;
         private System.Windows.Forms.TextBox textBox7;
         private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.TextBox textBox6;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.DateTimePicker dateTimePicker2;
