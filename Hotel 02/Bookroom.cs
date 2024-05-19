@@ -16,5 +16,10 @@ namespace Hotel_02
         {
             InitializeComponent();
         }
+
+        private void Bookroom_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
