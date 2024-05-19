@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="add-service.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add-service.Designer.cs">
+      <DependentUpon>add-service.cs</DependentUpon>
+    </Compile>
     <Compile Include="Bookroom.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -73,6 +79,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="add-service.resx">
+      <DependentUpon>add-service.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Bookroom.resx">
       <DependentUpon>Bookroom.cs</DependentUpon>
     </EmbeddedResource>
