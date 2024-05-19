@@ -112,7 +112,7 @@ namespace Hotel_02
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.label2.Location = new System.Drawing.Point(21, 62);
+            this.label2.Location = new System.Drawing.Point(21, 53);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(1219, 13);
             this.label2.TabIndex = 39;
@@ -122,7 +122,7 @@ namespace Hotel_02
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft YaHei", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(28, 9);
+            this.label1.Location = new System.Drawing.Point(28, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(569, 64);
             this.label1.TabIndex = 38;
@@ -137,7 +137,7 @@ namespace Hotel_02
             this.groupBox1.Controls.Add(this.textBox1);
             this.groupBox1.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.groupBox1.Location = new System.Drawing.Point(24, 91);
+            this.groupBox1.Location = new System.Drawing.Point(24, 78);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(618, 155);
             this.groupBox1.TabIndex = 35;
@@ -196,7 +196,7 @@ namespace Hotel_02
             this.groupBox4.Controls.Add(this.button5);
             this.groupBox4.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.groupBox4.Location = new System.Drawing.Point(24, 536);
+            this.groupBox4.Location = new System.Drawing.Point(24, 523);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Size = new System.Drawing.Size(618, 134);
             this.groupBox4.TabIndex = 37;
@@ -218,7 +218,7 @@ namespace Hotel_02
             this.groupBox5.Controls.Add(this.dataGridView1);
             this.groupBox5.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.groupBox5.Location = new System.Drawing.Point(648, 91);
+            this.groupBox5.Location = new System.Drawing.Point(648, 79);
             this.groupBox5.Name = "groupBox5";
             this.groupBox5.Size = new System.Drawing.Size(592, 578);
             this.groupBox5.TabIndex = 41;
@@ -246,7 +246,7 @@ namespace Hotel_02
             this.groupBox3.Controls.Add(this.label5);
             this.groupBox3.Font = new System.Drawing.Font("Times New Roman", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.groupBox3.Location = new System.Drawing.Point(24, 252);
+            this.groupBox3.Location = new System.Drawing.Point(24, 239);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(618, 278);
             this.groupBox3.TabIndex = 40;
